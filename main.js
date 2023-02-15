@@ -1,4 +1,4 @@
-/ getting all circles using class name "circ_style"
+// getting all circles using class name "circ_style"
 let circles = document.getElementsByClassName('circ_style');
 
 // adding event listeners to all circles created in the prev list
