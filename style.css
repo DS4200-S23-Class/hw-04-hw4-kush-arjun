@@ -37,6 +37,11 @@ body {
     fill: orange;
 }
 
+.circ_border {
+	stroke: mediumseagreen;
+	stroke-width: 4px;
+}
+
 
 #small_font {
     font-size: 12px;
