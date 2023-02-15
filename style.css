@@ -1,0 +1,43 @@
+body { 
+	font-family: Arial; 
+}
+
+.centered {
+	text-align: center;
+}
+
+
+.flexrow {
+  display: flex;
+}
+
+
+#flexcolumn1 {
+  flex: 60%;
+}
+
+
+#flexcolumn2 {
+  flex: 40%;
+}
+
+#svg_style {
+	width: 400px;
+	height: 400px;
+	border-bottom: 5px solid;
+	border-left: 5px solid;
+}
+
+.circ_style {
+	r: 10px; 
+    fill: mediumpurple;
+}
+
+.circ_style:hover {
+    fill: orange;
+}
+
+
+#small_font {
+    font-size: 12px;
+}
